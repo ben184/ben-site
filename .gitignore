@@ -1,0 +1,5 @@
+.sass-cache
+.idea/workspace.xml
+.jekyll-metadata
+.idea/*.*
+assets/.DS_Store
